@@ -1,0 +1,50 @@
+section.marquee {
+    background-color: #f0725c;
+  }
+ .button1{
+  text-align: center;
+  display: block;
+  margin: auto 0;
+ } 
+ .image{
+  display:flex;
+ 
+ }
+ .card{
+  background-color: #f0725c;
+ }
+  
+  footer{
+    background-color: black;
+  
+    height:300px;
+
+  }
+  .footer-caption{
+    text-align: center;
+    padding-top: 90px;
+    
+  }
+  .nav-bar{
+    
+    padding-left: 180px;
+    padding-top: 50px;
+    word-spacing: 10px;
+
+    
+  }
+  .espania{
+
+    text-align: center;
+    padding-top: 50px;
+    
+
+
+  }
+   
+    
+
+
+ 
+  
+  
